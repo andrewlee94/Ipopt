@@ -992,7 +992,7 @@ void IpoptAlgorithm::print_copyright_message(
                 "Advanced Energy Systems Process Systems Engineering Framework (IDAES PSE\n"
                 "Framework) Copyright (c) 2018-201. See https://github.com/IDAES/idaes-pse.\n"
                 "\nThis version of Ipopt was compiled using HSL, a collection of Fortran codes\n"
-                "for large-scale scientific computation. See http://www.hsl.rl.ac.uk/.n\” 
+                "for large-scale scientific computation. See http://www.hsl.rl.ac.uk/.\n” 
                 "******************************************************************************\n\n");
    copyright_message_printed = true;
 }

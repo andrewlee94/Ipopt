@@ -988,7 +988,7 @@ void IpoptAlgorithm::print_copyright_message(
                 "This program contains Ipopt, a library for large-scale nonlinear optimization.\n"
                 " Ipopt is released as open source code under the Eclipse Public License (EPL).\n"
                 "         For more information visit http://projects.coin-or.org/Ipopt\n"
-                "n\This version of Ipopt was compiled as part of the Institute for the Design of\n"
+                "\nThis version of Ipopt was compiled as part of the Institute for the Design of\n"
                 "Advanced Energy Systems Process Systems Engineering Framework (IDAES PSE\n"
                 "Framework) Copyright (c) 2018-201. See https://github.com/IDAES/idaes-pse.\n"
                 "\nThis version of Ipopt was compiled using HSL, a collection of Fortran codes\n"
